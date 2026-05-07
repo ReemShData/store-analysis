@@ -1,8 +1,8 @@
 # Store Performance Analysis
 
-## Objective
-Analyze the sales performance of 3 stores across 6 months 
-to identify top performers and revenue trends.
+## Problem
+The company needs to identify which stores are meeting 
+their revenue targets and which stores need improvement.
 
 ## Dataset
 - 18 records — 3 stores × 6 months
@@ -14,17 +14,27 @@ to identify top performers and revenue trends.
 - Microsoft Excel
   - Pivot Table
   - Conditional Formatting
-  - Charts & Dashboard
+  - Dashboard (3 Charts)
 
 ## Key Findings
 - Total Revenue: $281,250
-- Best Store: Store A with $160,000 (57% of total revenue)
-- Best Month: June with $54,750
-- Store A exceeded its target every month
+- Store A generated $160,000 (57% of total revenue)
+- Store B generated $61,500 (22% of total revenue)
+- Store C generated $59,750 (21% of total revenue)
+- Store A exceeded its target every single month
 - Store B never reached its target in any month
 
+## Decision & Recommendations
+- Store A is the top performer and its strategy should 
+  be studied and applied to other stores
+- Store B needs an urgent review of its sales strategy
+- Store C is stable but has room for improvement
+
+## Dashboard
+![Dashboard](dashboard.png)
+
 ## Files
-- 1Store_Analysis.xlsx
+- Store_Analysis.xlsx
   - Raw Data : original dataset with conditional formatting
-  - PivotTable : monthly revenue summary
+  - PivotTable : revenue summary by store and month
   - Dashboard : 3 charts showing performance overview
