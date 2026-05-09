@@ -31,7 +31,7 @@ their revenue targets and which stores need improvement.
 - Store C is stable but has room for improvement
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Files
 - Store_Analysis.xlsx
